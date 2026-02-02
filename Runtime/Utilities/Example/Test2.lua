@@ -1,0 +1,1 @@
+﻿print('这是在MUFramework的Runtime当中使用XLua代码，测试是否能够成功从多个路径加载')

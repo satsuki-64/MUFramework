@@ -1,0 +1,16 @@
+{
+    "name": "MUFramework",
+    "rootNamespace": "MUFramework",
+    "references": [
+        "GUID:1c54b8612e1c7f846bc5e2c2a6d214a9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

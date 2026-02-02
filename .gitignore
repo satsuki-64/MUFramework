@@ -1,0 +1,34 @@
+# Unity相关过滤规则（核心：过滤.meta和冗余文件）
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# 过滤所有.meta文件（关键）
+*.meta
+# 但保留Assets和ProjectSettings下的.meta（如果需要，可选；若完全过滤则删除这两行）
+!Assets/**/*.meta
+!ProjectSettings/**/*.meta
+
+# VS/VSCode配置文件
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# 其他冗余文件
+.DS_Store
+Thumbs.db

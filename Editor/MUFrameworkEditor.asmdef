@@ -1,0 +1,19 @@
+{
+    "name": "MUFrameworkEditor",
+    "rootNamespace": "MUFramework.Editor",
+    "references": [
+        "GUID:98ebf24469f320d45bbb13122952a255",
+        "GUID:1c54b8612e1c7f846bc5e2c2a6d214a9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
